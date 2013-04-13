@@ -2,7 +2,7 @@ rapidshare-perl
 ===============
 Old rapidshare downloader using perl. must have a valid account with rapidshare.
 Not working right now because Rapidshare changed validation to JS.
-Here for learning purpose. Will rewrite in Node.js!
+Here for learning purpose. Will rewrite script in Node.js!
 
 Must download WWW::Mechanize using CPAN.
 Must have installed zip unrar and 7z in your distribution
