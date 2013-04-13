@@ -7,7 +7,7 @@ my $rapid = rapidshare->new();
 print "Name of the textfile: ";
 chomp(my $get = <STDIN>);
 $rapid->file($get);
-
+ 
 print "Username: ";
 chomp($get = <STDIN>);
 print "Password: ";

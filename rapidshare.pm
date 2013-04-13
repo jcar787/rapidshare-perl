@@ -6,7 +6,7 @@
 
 package rapidshare;
 
-use strict;
+use strict; 
 use WWW::Mechanize;
 use Time::HiRes "sleep";
 use Cwd "abs_path";
